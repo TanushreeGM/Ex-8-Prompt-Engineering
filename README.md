@@ -59,14 +59,20 @@ video of city:
 https://youtu.be/ScMzIvxBSi4
 
 
-Comparison Between Simple and Detailed Prompts
-Feature	Simple Prompt	Detailed Prompt
-Video Quality	Basic visuals	High-quality visuals
-Scene Consistency	Moderate consistency	Better consistency
-Animation Style	Generic animation	More realistic and cinematic
-Motion & Transitions	Limited movement	Smooth camera motion and transitions
-Creativity	AI decides most details	User controls artistic direction
-Visual Details	Less detailed	Rich and detailed scenes
+# Comparison Between Simple and Detailed Prompts
+
+| Feature              | Simple Prompt           | Detailed Prompt                      |
+| -------------------- | ----------------------- | ------------------------------------ |
+| Video Quality        | Basic visuals           | High-quality visuals                 |
+| Scene Consistency    | Moderate consistency    | Better consistency                   |
+| Animation Style      | Generic animation       | More realistic and cinematic         |
+| Motion & Transitions | Limited movement        | Smooth camera motion and transitions |
+| Creativity           | AI decides most details | User controls artistic direction     |
+| Visual Details       | Less detailed           | Rich and detailed scenes             |
+
+---
+
+
 
 Observations and Analysis
 1.Simple prompts generated videos quickly but produced generic scenes with fewer details.
