@@ -55,6 +55,9 @@ Scene 4 – Futuristic City (Detailed Prompt)
 
 <img width="198" height="116" alt="image" src="https://github.com/user-attachments/assets/93f64888-d7e2-4ff9-9d3e-231e3c26955a" />
 
+video of city:
+https://youtu.be/ScMzIvxBSi4
+
 
 Comparison Between Simple and Detailed Prompts
 Feature	Simple Prompt	Detailed Prompt
